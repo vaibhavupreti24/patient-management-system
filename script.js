@@ -1,5 +1,6 @@
 const form = document.getElementById('patientForm');
 const tableBody = document.getElementById('tableBody');
+
 function addPatient() {
     const name = document.getElementById('name').value;
     const phone = document.getElementById('phone').value;
@@ -7,6 +8,7 @@ function addPatient() {
     const motherName = document.getElementById('motherName').value;
     const fatherName = document.getElementById('fatherName').value;
     const disease = document.getElementById('disease').value;
+
     const newRow = document.createElement('tr');
     newRow.innerHTML = `
         <td>${name}</td>
