@@ -34,4 +34,4 @@ styles.css: The CSS file for styling the web pages.
 script.js: The JavaScript file containing the logic for form handling and data management.
 
 <h1>Demo Link</h1>
-https://internproject-web.s3.ap-south-1.amazonaws.com/Internship+project/index.html
+https://internprojectwebdev.s3.eu-north-1.amazonaws.com/index.html
